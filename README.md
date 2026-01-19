@@ -1,1 +1,1 @@
-Modern Full SDtack React Projects
+Modern Full Stack React Projects
